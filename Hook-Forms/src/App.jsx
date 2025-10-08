@@ -5,7 +5,7 @@ import './App.css'
 import {useForm} from "react-hook-form"
 
 
-// From:-in this project i  learn how to make form with some validation using Ract-Hook-form. 
+// From:-in this project i  learn how to make form with some validation using Ract-Hook-form package. 
 function App() {
   const{
     register, // this field is used to link the data to form.
